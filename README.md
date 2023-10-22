@@ -1,3 +1,2 @@
-calculator_2
-
-A simpler calculator using the basic HTML, CSS, & JS
+# calculator
+A simpler calculator created using the basic HTML, CSS, and JavaScript
